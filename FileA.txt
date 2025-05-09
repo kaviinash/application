@@ -1,2 +1,4 @@
 this is file A
 changed the file 
+
+making another change
